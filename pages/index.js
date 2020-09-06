@@ -20,6 +20,11 @@ export default function Home() {
         </p>
 
         <div className={styles.grid}>
+          <a href="https://github.com/carlosvitr/Next-site-blog" className={styles.card}>
+            <h3>Repositorio do site</h3>
+            <p> Este é o repositório deste site Nextjs hospedado no github </p>
+          </a>
+
           <a href="https://nextjs.org/docs" className={styles.card}>
             <h3>Documentation &rarr;</h3>
             <p>Find in-depth information about Next.js features and API.</p>
