@@ -15,7 +15,7 @@ export default function Home() {
         </h1>
 
         <p className={styles.description}>
-          Get started by editing{' '}
+        Github projects lab built in Nextjs.Take a look! Get started by editing{' '}
           <code className={styles.code}>pages/index.js</code>
         </p>
 
