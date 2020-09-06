@@ -1,14 +1,38 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
+Crie um aplicativo Next.js
 
-First, run the development server:
+Para criar um aplicativo Next.js, abra seu terminal cdno diretório em que deseja criar o aplicativo e execute o seguinte comando:
+
+npx create-next-app nextjs-blog --use-npm --example "https://github.com/vercel/next-learn-starter/tree/master/learn-starter"
+
+Nos bastidores, usa-se a ferramenta chamada create-next-app, que inicializa um aplicativo Next.js para você. Ele usa esse modelo por meio da --examplebandeira.
+
+Se não funcionar, dê uma olhada nesta página .
+
+Execute o servidor de desenvolvimento
+
+Agora você tem um novo diretório chamado nextjs-blog. Vamos cdlá:
+
+```bash
+cd nextjs-blog
+```
+
+Em seguida, execute o seguinte comando:
 
 ```bash
 npm run dev
 # or
 yarn dev
 ```
+
+Isso inicia o "servidor de desenvolvimento" do aplicativo Next.js (mais sobre isso mais tarde) na porta 3000 .
+
+Vamos verificar se está fun
+First, run the development server:
+
+
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
