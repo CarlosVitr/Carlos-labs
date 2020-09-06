@@ -21,7 +21,7 @@ export default function Home() {
 
         <div className={styles.grid}>
           <a href="https://github.com/carlosvitr/Next-site-blog" className={styles.card}>
-            <h3>Repositorio do site</h3>
+            <h3>Repositorio do site;</h3>
             <p> Este é o repositório deste site Nextjs hospedado no github </p>
           </a>
 
