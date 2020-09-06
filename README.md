@@ -9,7 +9,7 @@ Para criar um aplicativo Next.js, abra seu terminal cdno diretório em que desej
 npx create-next-app nextjs-blog --use-npm --example "https://github.com/CarlosVitr/Next-site-blog"
 ```
 ---
- Nos bastidores, usa-se a ferramenta chamada `create-next-app`, que inicializa um aplicativo Next.js para você. Ele  usa esse modelo por meio da --examplebandeira.
+ Nos bastidores, usa-se a ferramenta chamada `create-next-app`, que inicializa um aplicativo Next.js para você. Ele  usa esse modelo por meio da --example flag.
 `blog-nextjs` is a name of the directory you can put your name on.
 Se não funcionar, dê uma olhada nesta página.
 
