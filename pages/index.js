@@ -11,7 +11,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to <a href="https://carlosvitor.ml"> Carlos Labs </a>
+          Welcome to <a href="http://carlosvitor.ml/"> Carlos Labs </a>
         </h1>
 
         <p className={styles.description}>
