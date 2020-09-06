@@ -5,12 +5,15 @@ Crie um aplicativo Next.js
 
 Para criar um aplicativo Next.js, abra seu terminal cdno diretório em que deseja criar o aplicativo e execute o seguinte comando:
 
-npx create-next-app nextjs-blog --use-npm --example "https://github.com/vercel/next-learn-starter/tree/master/learn-starter"
+```bash
+npx create-next-app nextjs-blog --use-npm --example "https://github.com/CarlosVitr/Next-site-blog"
+```
+---
+ Nos bastidores, usa-se a ferramenta chamada create-next-app, que inicializa um aplicativo Next.js para você. Ele  usa esse modelo por meio da --examplebandeira.
 
-Nos bastidores, usa-se a ferramenta chamada create-next-app, que inicializa um aplicativo Next.js para você. Ele usa esse modelo por meio da --examplebandeira.
+Se não funcionar, dê uma olhada nesta página.
 
-Se não funcionar, dê uma olhada nesta página .
-
+---
 Execute o servidor de desenvolvimento
 
 Agora você tem um novo diretório chamado nextjs-blog. Vamos cdlá:
