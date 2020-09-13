@@ -3,8 +3,8 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 ## Getting Started
 Create a Next.js app
 
-<a href="http://carlosvitor.ml/"><img src="https://img.shields.io/static/v1?label=Carlos&message=Developer&color=03bb85&style=for-the-badge&logo=dev.to"/></a>
-
+<a href="http://carlosvitor.ml/"><img src="https://img.shields.io/badge/made_by_carlos-022d36.svg?style=for-the-badge&logo=dev.to&logoColor=white"></a>
+  
 
 To create a Next.js app, open your terminal, cd into the directory you’d like to create the app in, and run the following command:
 
